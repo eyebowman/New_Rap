@@ -13,7 +13,7 @@ difference = a - b + 7
 
 return difference
 
-
+Some nonsense again
 # def bad_division(a, b):
 
 #   quotient = (a+13) / b
