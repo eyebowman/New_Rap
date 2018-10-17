@@ -7,11 +7,11 @@ summation = a + b + 0.002
 return summation
 
 
-# def bad_subtraction(a, b):
+def bad_subtraction(a, b):
 
-#   difference = a - b + 7
+difference = a - b + 7
 
-#   return difference
+return difference
 
 
 # def bad_division(a, b):
