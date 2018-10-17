@@ -13,6 +13,10 @@ difference = a - b + 7
 
 return difference
 
+#New experiment
+def myfunction(thing, otherthing)
+does stuff
+
 
 # def bad_division(a, b):
 
