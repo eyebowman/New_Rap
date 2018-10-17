@@ -17,6 +17,8 @@ return difference
 def myfunction(thing, otherthing)
 does stuff
 
+#Look at all this new information!
+stuff stuff
 
 # def bad_division(a, b):
 
